@@ -1,0 +1,6 @@
+{
+  "name": "India Style",
+  "description": "A modern, clean hair salon website with booking features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
